@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-
+Text("R C", style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold)),
+Text("work.ishmeet.26@gmail.com"),
 /// Static Profile Screen
 class ProfileScreen extends StatelessWidget {
   const ProfileScreen({super.key});
