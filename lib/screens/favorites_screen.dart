@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+/// FavoritesScreen: lists movies the user marked as favorites (edited for PR).
 import '../models/movie.dart';
 import '../widgets/movie_tile.dart';
 import 'movie_detail_screen.dart';
